@@ -12,9 +12,9 @@
 
 配置文件：`reframework/data/onimusha_issen_standalone.json`。关闭开关后恢复手动操作。卸载时仅删除本 Mod 的 `onimusha_issen.lua`、同名脚本目录及 `reframework/fonts/onimusha_issen`；配置可自行保留。
 
-**作者本人实机验证：双鵺兽 Boss 战首次连锁一闪不触发，后续可触发；其他已测试场景正常。根因尚未确认，本版没有宣称修复此问题。** 未验证所有敌人、武器与游戏更新。请勿同时加载重复脚本。
+**实机验证：双鵺兽 Boss 战首次连锁一闪不触发，后续可触发；其他已测试场景正常。根因尚未确认，本版没有宣称修复此问题。** 未验证所有敌人、武器与游戏更新。请勿同时加载重复脚本。
 
-本次为现有版本发布，功能与运行文件保持不变。1282 项模拟断言通过；模拟不能替代实机验收。正常一闪、化劲、弹刀及正常死亡已由作者本人实机验证，双鵺兽首轮连锁仍是已知缺陷。
+本次为现有版本发布，功能与运行文件保持不变。1282 项模拟断言通过；模拟不能替代实机验收。正常一闪、化劲、弹刀及正常死亡已通过实机验证，双鵺兽首轮连锁仍是已知缺陷。
 
 ## English description
 
@@ -28,9 +28,9 @@ Installation: exit the game, disable the original Gameplay Tweaker and duplicate
 
 Settings: `reframework/data/onimusha_issen_standalone.json`. Disabling a feature restores manual control. To uninstall, remove only `onimusha_issen.lua`, its matching script folder, and `reframework/fonts/onimusha_issen`. Keeping the configuration is optional.
 
-**Verified in-game by the author: the first Chain Issen in the twin Nue boss encounter fails to trigger, while later attempts work. Other tested encounters work normally. The root cause remains unconfirmed; this release does not claim to fix it.** Not all enemies, weapons, or game updates have been tested. Do not load duplicate scripts.
+**Tested in-game: the first Chain Issen in the twin Nue boss encounter fails to trigger, while later attempts work. Other tested encounters work normally. The root cause remains unconfirmed; this release does not claim to fix it.** Not all enemies, weapons, or game updates have been tested. Do not load duplicate scripts.
 
-This release preserves the existing gameplay and runtime files. 1,282 simulated assertions passed; simulation does not replace in-game acceptance. The author has verified normal Issen, Kakei, Parry, and normal player death in-game. The first chain in the twin Nue encounter remains a known defect.
+This release preserves the existing gameplay and runtime files. 1,282 simulated assertions passed; simulation does not replace in-game acceptance. Normal Issen, Kakei, Parry, and normal player death have been tested in-game. The first chain in the twin Nue encounter remains a known defect.
 
 ## REFramework 下载指引 / Download guide
 
