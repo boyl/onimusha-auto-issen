@@ -1,0 +1,33 @@
+{
+  "version": "0.1.21-test",
+  "files": [
+    {
+      "path": "reframework/autorun/onimusha_issen/adapter.lua",
+      "sha256": "09928c848c3d739e2229b04a26d588044d617cd5b193402e3311ba046279f5f4"
+    },
+    {
+      "path": "reframework/autorun/onimusha_issen/contracts.lua",
+      "sha256": "80c2823e0fb3742645f912518c576848b78fee1076beebba7c9c8d54ee44df4e"
+    },
+    {
+      "path": "reframework/autorun/onimusha_issen/model.lua",
+      "sha256": "74f04f635325c277b7ff8b8cca80230a90cb2f293eba7549f16a53484a07a9f8"
+    },
+    {
+      "path": "reframework/autorun/onimusha_issen/view.lua",
+      "sha256": "0ec778ff0e58b28dd1c30eb821fc232b2e91a2f781ea8c3bd61dae0c02fc4f23"
+    },
+    {
+      "path": "reframework/autorun/onimusha_issen.lua",
+      "sha256": "72b15e4ff4ad466c22dd58e7cf7e695fbf0e65c3644486524a36db4703adc23f"
+    },
+    {
+      "path": "reframework/fonts/onimusha_issen/IssenCJK.ttf",
+      "sha256": "a15352a1543b7245d51ba47ce023653282f642e332a0a48fc96fb9b27d73ca7c"
+    },
+    {
+      "path": "reframework/fonts/onimusha_issen/OFL.txt",
+      "sha256": "2de49865c238784d3e9d9bfb65c9a567d9d63fb7f336270a0df12bbc5630591c"
+    }
+  ]
+}

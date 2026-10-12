@@ -1,0 +1,3 @@
+artifacts/
+__pycache__/
+docs/acceptance/automated-results.json
