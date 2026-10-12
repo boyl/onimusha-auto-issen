@@ -32,8 +32,6 @@ Settings: `reframework/data/onimusha_issen_standalone.json`. Disabling a feature
 
 This release preserves the existing gameplay and runtime files. 1,282 simulated assertions passed; simulation does not replace in-game acceptance. The author has verified normal Issen, Kakei, Parry, and normal player death in-game. The first chain in the twin Nue encounter remains a known defect.
 
-## 致谢 / Credits
-
 ## REFramework 下载指引 / Download guide
 
 - [官方 Nightly 下载 / Official nightly downloads](https://github.com/praydog/REFramework-nightly/releases)
@@ -52,6 +50,7 @@ Expand Assets and select a framework build compatible with this game. The curren
 5. 升级时覆盖脚本和字体，保留配置文件。首次安装各开关默认关闭。
 
 English:
+
 1. Exit the game. In Steam, right-click the game → Manage → Browse local files to open the game root.
 2. Install REFramework as described above. Disable the original Gameplay Tweaker and duplicate combat automation scripts.
 3. Extract this mod and merge its `reframework` folder directly into the game root. Do not add an extra archive-name or `payload` folder.
@@ -87,5 +86,7 @@ OnimushaWotS/                         游戏根目录 / Game root
 ```
 
 README 和 manifest 无需复制进游戏目录。README and manifest do not need to be copied into the game folder.
+
+## 致谢 / Credits
 
 感谢 praydog 及 REFramework 贡献者。Thanks to praydog and REFramework contributors. The bundled font is a renamed subset of Adobe Source Han Sans, distributed under the SIL Open Font License; see the included OFL.txt. Game assets and REFramework binaries are not bundled.
