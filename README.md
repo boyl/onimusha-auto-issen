@@ -1,5 +1,3 @@
-![GitHub Release Downloads](https://img.shields.io/github/downloads/boyl/onimusha-auto-issen/total?label=Downloads&color=blue)
-
 # 自动一闪（Auto Issen）
 
 《鬼武者：剑之道》独立 REFramework 自动反制 Mod。发布版本：0.1.21。运行文件保持不变，脚本内部标识仍为 0.1.21-test。
