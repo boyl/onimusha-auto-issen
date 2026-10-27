@@ -1,6 +1,16 @@
 [![Downloads](https://img.shields.io/github/downloads/boyl/onimusha-auto-issen/total?label=Downloads&color=blue)](https://github.com/boyl/onimusha-auto-issen/releases) [![Stars](https://img.shields.io/github/stars/boyl/onimusha-auto-issen?label=Stars)](https://github.com/boyl/onimusha-auto-issen/stargazers) [![Latest Release](https://img.shields.io/github/v/release/boyl/onimusha-auto-issen?label=Release)](https://github.com/boyl/onimusha-auto-issen/releases/latest) [![License](https://img.shields.io/github/license/boyl/onimusha-auto-issen?label=License)](https://github.com/boyl/onimusha-auto-issen/blob/HEAD/LICENSE)
 
 # 自动一闪（Auto Issen）
+> [!IMPORTANT]
+> **第三方 Gameplay Tweaker Mod 问题录像（非本项目 Auto Issen）**
+>
+> **[▶ 查看一镜到底录像与完整复现说明](https://github.com/boyl/onimusha-auto-issen/releases/tag/evidence-tweaker-2026-10-27)** · [下载原始视频](https://github.com/boyl/onimusha-auto-issen/releases/download/evidence-tweaker-2026-10-27/2026-10-27.11-05-25.mp4)
+>
+> 录像记录第三方 Gameplay Tweaker 开启自动一闪、自动连锁一闪后，约 **01:08 起角色不死亡、键盘与手柄均无法操作、游戏菜单无法打开，最终只能强制结束进程**的现象。
+>
+> **独立的第三方 Mod 问题记录，不属于 Auto Issen 的功能、缺陷或版本更新。** 被测安装包标识为 **26.8**，DLL 内部组件标识为 **0.12.6**；详情及证据边界见链接。Auto Issen 下载请使用上方 Latest Release 入口。
+
+---
 
 《鬼武者：剑之道》独立 REFramework 自动反制 Mod。发布版本：0.1.21。运行文件保持不变，脚本内部标识仍为 0.1.21-test。
 
